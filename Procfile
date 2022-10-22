@@ -1,1 +1,1 @@
-worker: java -jar target/zfilin-heroku-test.jar
+worker: java -jar target/heroku-test-1.0-SNAPSHOT.jar
